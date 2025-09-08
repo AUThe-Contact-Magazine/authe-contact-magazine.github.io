@@ -1,7 +1,6 @@
 <html>
-<head>
 	<title>Styled Link as Button</title>
-	<style>
+	<header>
 		.button-class {
 			background-color: #4CAF50;
 			/* Green */
@@ -16,10 +15,6 @@
 			cursor: pointer;
 			border-radius: 4px;
 		}
-	</style>
-</head>
-
-<header>
 	<a href="https://authe-contact-magazine.github.io/LatestNews.html" class="button-class">
       Latest News</a>
 </header>
