@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -19,7 +18,7 @@
 </head>
 <body>
 
-<button class="button button1">Green</button>
+<button class="button button1">Test</button>
 
 </body>
 </html>
