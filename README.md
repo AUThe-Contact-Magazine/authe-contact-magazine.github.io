@@ -20,8 +20,8 @@
 </head>
 
 <body>
-	<a href="another-page.html" class="button-class">
-      Go to Another Page</a>
+	<a href="https://authe-contact-magazine.github.io/LatestNews.html" class="button-class">
+      Latest News</a>
 </body>
 
 </html>
