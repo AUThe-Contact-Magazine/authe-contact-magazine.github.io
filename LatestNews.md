@@ -2,7 +2,7 @@
   
  <head>
    <title> Latest News </title>
-   <h1><header> The Contact Magazine </header></h1>
+   <h1><header> Latest News From The Contact Magazine: </header></h1>
  </head>
   
  <body>
