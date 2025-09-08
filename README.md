@@ -8,7 +8,7 @@
 			border: none;
 			color: white;
 			padding: 10px 20px;
-			text-align: center;
+			text-align: right;
 			text-decoration: none;
 			display: inline-block;
 			font-size: 16px;
@@ -19,9 +19,9 @@
 	</style>
 </head>
 
-<body>
+<header>
 	<a href="https://authe-contact-magazine.github.io/LatestNews.html" class="button-class">
       Latest News</a>
-</body>
+</header>
 
 </html>
